@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MysqlService" />
+        <module name="mongodb (4)" />
+        <module name="redisdb" />
+        <module name="configserver" />
+        <module name="Users" />
+        <module name="security" />
+        <module name="mongodb (2)" />
+        <module name="postgreSQL" />
+        <module name="mongodb (3)" />
+        <module name="discovery" />
+        <module name="mongodb (1)" />
+        <module name="Trips" />
+        <module name="MarketPlace" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="17" />
+      <module name="HorraireTS" target="17" />
+      <module name="MarketPlaces" target="17" />
+      <module name="mongodb" target="17" />
+      <module name="mongodb (5)" target="17" />
+      <module name="MysqlService (1)" target="17" />
+      <module name="MysqlService (2)" target="17" />
+      <module name="reservation" target="17" />
+      <module name="Station" target="17" />
+      <module name="StationP" target="17" />
+      <module name="Transport" target="17" />
+      <module name="Trip" target="17" />
+      <module name="Trips (1)" target="17" />
+      <module name="Trips (2)" target="17" />
+      <module name="Trips (3)" target="17" />
+      <module name="User" target="17" />
+      <module name="vol" target="17" />
+      <module name="vol (1)" target="17" />
+      <module name="vol (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="HorraireTS" options="-parameters" />
+      <module name="MarketPlace" options="-parameters" />
+      <module name="MarketPlaces" options="-parameters" />
+      <module name="MysqlService" options="-parameters" />
+      <module name="MysqlService (1)" options="-parameters" />
+      <module name="MysqlService (2)" options="-parameters" />
+      <module name="Station" options="-parameters" />
+      <module name="StationP" options="-parameters" />
+      <module name="Transport" options="-parameters" />
+      <module name="Trip" options="-parameters" />
+      <module name="Trips" options="-parameters" />
+      <module name="Trips (1)" options="-parameters" />
+      <module name="Trips (2)" options="-parameters" />
+      <module name="Trips (3)" options="-parameters" />
+      <module name="User" options="-parameters" />
+      <module name="Users" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="configserver" options="-parameters" />
+      <module name="discovery" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="mongodb" options="-parameters" />
+      <module name="mongodb (1)" options="-parameters" />
+      <module name="mongodb (2)" options="-parameters" />
+      <module name="mongodb (3)" options="-parameters" />
+      <module name="mongodb (4)" options="-parameters" />
+      <module name="mongodb (5)" options="-parameters" />
+      <module name="postgreSQL" options="-parameters" />
+      <module name="redisdb" options="-parameters" />
+      <module name="reservation" options="-parameters" />
+      <module name="security" options="-parameters" />
+      <module name="vol" options="-parameters" />
+      <module name="vol (1)" options="-parameters" />
+      <module name="vol (2)" options="-parameters" />
+    </option>
+  </component>
+</project>

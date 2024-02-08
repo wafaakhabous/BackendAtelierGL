@@ -1,0 +1,40 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/HorraireTS/pom.xml" />
+        <option value="$PROJECT_DIR$/Station/pom.xml" />
+        <option value="$PROJECT_DIR$/Transport/pom.xml" />
+        <option value="$PROJECT_DIR$/redisdb/pom.xml" />
+        <option value="$PROJECT_DIR$/User/pom.xml" />
+        <option value="$PROJECT_DIR$/postgreSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/StationP/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/reservation/pom.xml" />
+        <option value="$PROJECT_DIR$/security/pom.xml" />
+        <option value="$PROJECT_DIR$/vol/pom.xml" />
+        <option value="$PROJECT_DIR$/MysqlService/pom.xml" />
+        <option value="$PROJECT_DIR$/Trip/pom.xml" />
+        <option value="$PROJECT_DIR$/Trips/pom.xml" />
+        <option value="$PROJECT_DIR$/MarketPlaces/pom.xml" />
+        <option value="$PROJECT_DIR$/Users/pom.xml" />
+        <option value="$PROJECT_DIR$/MarketPlace/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/MarketPlaces/pom.xml" />
+        <option value="$PROJECT_DIR$/StationP/pom.xml" />
+        <option value="$PROJECT_DIR$/Trip/pom.xml" />
+        <option value="$PROJECT_DIR$/reservation/pom.xml" />
+        <option value="$PROJECT_DIR$/vol/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

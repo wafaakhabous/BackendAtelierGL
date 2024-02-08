@@ -1,0 +1,25 @@
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+server:
+  port: 8050
+
+spring:
+  application:
+    name: security
+  config:
+    import: optional:configserver:http://localhost:8888
+  datasource:
+    url: jdbc:mysql://localhost:3307/usersc?createDatabaseIfNotExist=true
+    hikari:
+      username: root
+      password:
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database: mysql
+    database-platform: org.hibernate.dialect.MariaDBDialect
